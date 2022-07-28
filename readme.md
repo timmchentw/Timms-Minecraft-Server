@@ -2,7 +2,7 @@
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQvHInp69r4fQ1aUIF2Jm4krgCnhwB6Ufdxi76_wB9l0t6WiSDdPwJxcYIYg1KTWvgbxDqt6CGMrl4F/pub?w=500&amp;h=500">
 
-* [協作地圖](https://docs.google.com/drawings/d/14CkqO0yurGKy7m1i6QX_AyAPa7ecaTq3OsKWUSnJWo4/edit?usp=sharing)<br>
+* [協作地圖](https://docs.google.com/drawings/d/14CkqO0yurGKy7m1i6QX_AyAPa7ecaTq3OsKWUSnJWo4/edit?usp=sharing){:target="_blank"}<br>
 * [模組與設定匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools) <br>
 * [快速上手](https://docs.google.com/presentation/d/1msM5YNsXpt14wGQ0t3xbDOrEIKE55fgAX7pzxHYfUho/edit?usp=sharing)<br>
 * [Mod圖說](https://docs.google.com/document/d/1Qc1ljT_9D0RBvlq08HDihXI4edl3lFVBeVYlCp3eM38/edit?usp=sharing)<br>
@@ -19,14 +19,17 @@
 ## 社群與資源
 * Line官方帳號<br>
 歡迎加入Line聊天機器人，可快速查看連結與即時接收伺服器更新通知!<br>
-<img src="./images/1.png"  width="200">
+    <img src="./images/1.png"  width="200">
 
 * Discord<br>
 歡迎加入[Discord](https://discord.gg/XSmgz6SaTq)在遊戲中交談! 
-<img src="./images/6.png"  width="600">
+    <img src="./images/6.png"  width="600">
 
-* [Official Skin](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin)
-* [BlessingSkin](https://skin.prinzeugen.net/)
+* Skin:
+    * [Official](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin)
+    * [BlessingSkin](https://skin.prinzeugen.net/)
+* 史萊姆區塊搜尋: 
+    * [Chunkbase](https://www.chunkbase.com/apps/slime-finder)
 
 
 

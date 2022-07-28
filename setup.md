@@ -1,9 +1,12 @@
 # Timm's Minecraft Server安裝方法
 #### I 安裝Minecraft
 * 購買正版下載器<br>
-  (1) [購買](https://www.minecraft.net/zh-hans/store/minecraft-java-edition)帳號<br>
+  (1) [購買](https://www.minecraft.net/zh-hans/store/minecraft-java-edition)帳號 (Java版)<br>
   (2) 下載與安裝[啟動器](https://www.minecraft.net/zh-hans/download) <br>
-  (3) 下載與安裝Forge <br>
+  (3) 下載與安裝[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html) (Mod Loader) <br>
+    ▹ 建議版本為 1.16.5 - 36.2.0 <br>
+    ▹ 依照[此頁](https://forum.gamer.com.tw/C.php?bsn=18673&snA=154214)安裝步驟 (或參考下方圖片步驟)<br>
+    ▹ 太麻煩的話，建議直接使用第三方Launcher，也可登入正版帳密 (MC-Launcer、MultiMC、ATLauncher都不錯用)<br>
   <img src="./images/3-1.png"  height="200">
   <img src="./images/3-2.png"  height="200"><br>
   (4) 開啟Launcher登入已購買的帳號 <br>
@@ -11,20 +14,21 @@
   (5) 新增安裝檔 <br>
   <img src="./images/3-4.png"  width="600"> <br>
   (6) 選剛才安裝好的 Release 1.16.5-forge-36.2.0 <br>
-  <img src="./images/3-5.png"  width="600"> <br>
+  <img src="./images/3-5.JPG"  width="400"> <br>
   (7) 點選"更多選項"，設定擴大RAM為4G (避免日後記憶體不足)  <br>
   <img src="./images/7-2.png"  width="400"> <br>
-  (8) 等待安裝完成，開始遊戲即可! <br>
+  (8) 等待安裝完成，開始遊戲即可!<br>
   <img src="./images/3-6.png"  width="400"> <br>
 
-* 或先安裝第三方安裝程式<br>
+* 或先安裝第三方Launcher<br>
   ▹ [MC-Launcher](https://mc-launcher.com/launchers) <br>
   (1) 先建立帳戶<br>
   <img src="./images/2-1.png"  width="600"> <br>
   (2) 選擇正版或其他帳戶，並輸入帳密或名稱<br>
   <img src="./images/2-2.png"  width="600"> <br>
-  (3) 選定安裝版本(Forge 1.16.5)<br>
+  (3) 選定安裝版本(Forge 1.16.5)，按進入遊戲即可!<br>
   <img src="./images/2-3.png"  width="600"> <br>
+
   
 #### II 安裝MOD與初始設定
   1. **請下載自製"[檔案匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools)"** <br>
@@ -47,6 +51,9 @@
   ※ 匯入地圖檔請在進入多人遊戲後，再做匯入，否則找不到多人世界的資料夾!<br>
   ※ 日後伺服器MOD或地圖檔有更新時，再打開小工具快速更新即可! 
   
+  5. **重開Minecraft，將重新讀取Mod與設定**<br>
+  
+
 #### III 連線到多人伺服器
   1. **新增多人伺服器**<br>
   點選多人遊戲→新增伺服器，伺服器名稱自定義(待會匯入地圖檔會用到)、<br>
@@ -55,7 +62,7 @@
   <img src="./images/5-2.png"  width="500"> <br>
   <img src="./images/5-3.png"  width="500"> <br>
   2. **送出申請表單**<br>
-  此時進入多人遊戲後會被擋住，請先到[主頁表單連結](./readme.md#申請與安裝方法)填寫入伺服器申請，<br>
+  此時進入多人遊戲後會被擋住，請先到[主頁表單連結](./readme.md#%E7%94%B3%E8%AB%8B%E8%88%87%E5%AE%89%E8%A3%9D%E6%96%B9%E6%B3%95)填寫入伺服器申請，<br>
   送出表單後，通知OP人工核准後始可登入<br>
   <br>
   Ps. 伺服器使用Simple login模組避免帳號被盜用，<br>
