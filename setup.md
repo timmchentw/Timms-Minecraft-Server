@@ -32,8 +32,8 @@
   
 #### II 安裝MOD與初始設定
   1. **請下載自製"[檔案匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools)"** <br>
-  點選按鈕進行設定檔置換
-  ![](images/4.png)
+  點選按鈕進行設定檔置換<br>
+  <img src="./images/4.png"  width="500">
   2. **點選"安裝Mods"**<br>
   會直接下載目前伺服器所需的所有MOD (下載期間請耐心等待)<br>
   ※ 注意私自安裝的MOD會一併作刪除，更新前請先備份好<br>
@@ -57,12 +57,12 @@
 #### III 連線到多人伺服器
   1. **新增多人伺服器**<br>
   點選多人遊戲→新增伺服器，伺服器名稱自定義(待會匯入地圖檔會用到)、<br>
-  網址輸入"minecraft.timmchen.com"，點選完成後直接連線
+  網址輸入"minecraft.timmchen.com"，點選完成後直接連線 <br>
   <img src="./images/5-1.png"  width="500"> <br>
   <img src="./images/5-2.png"  width="500"> <br>
   <img src="./images/5-3.png"  width="500"> <br>
   2. **送出申請表單**<br>
-  此時進入多人遊戲後會被擋住，請先到[主頁表單連結](./readme.md#%E7%94%B3%E8%AB%8B%E8%88%87%E5%AE%89%E8%A3%9D%E6%96%B9%E6%B3%95)填寫入伺服器申請，<br>
+  此時進入多人遊戲後會被擋住，請先到[主頁表單連結](./read.me#%E7%94%B3%E8%AB%8B%E8%88%87%E5%AE%89%E8%A3%9D%E6%96%B9%E6%B3%95)填寫入伺服器申請，<br>
   送出表單後，通知OP人工核准後始可登入<br>
   <br>
   Ps. 伺服器使用Simple login模組避免帳號被盜用，<br>
