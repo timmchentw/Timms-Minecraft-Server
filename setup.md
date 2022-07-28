@@ -1,36 +1,42 @@
 # Timm's Minecraft Server安裝方法
-#### I 安裝Minecraft
+1. [安裝Minecraft](#i-%E5%AE%89%E8%A3%9Dminecraft)
+2. [安裝MOD與初始設定](#ii-%E5%AE%89%E8%A3%9Dmod%E8%88%87%E5%88%9D%E5%A7%8B%E8%A8%AD%E5%AE%9A)
+3. [連線到多人伺服器](#iii-%E9%80%A3%E7%B7%9A%E5%88%B0%E5%A4%9A%E4%BA%BA%E4%BC%BA%E6%9C%8D%E5%99%A8)
+4. [匯入地圖檔](#iv-%E5%8C%AF%E5%85%A5%E5%9C%B0%E5%9C%96%E6%AA%94)
+* [疑難排解](#%E7%96%91%E9%9B%A3%E6%8E%92%E8%A7%A3)
+
+## I 安裝Minecraft
 * 購買正版下載器<br>
-  (1) [購買](https://www.minecraft.net/zh-hans/store/minecraft-java-edition)帳號 (Java版)<br>
-  (2) 下載與安裝[啟動器](https://www.minecraft.net/zh-hans/download) <br>
-  (3) 下載與安裝[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html) (Mod Loader) <br>
+  1. [購買](https://www.minecraft.net/zh-hans/store/minecraft-java-edition)帳號 (Java版)<br>
+  2. 下載與安裝[啟動器](https://www.minecraft.net/zh-hans/download) <br>
+  3. 下載與安裝[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html) (Mod Loader) <br>
     ▹ 建議版本為 1.16.5 - 36.2.0 <br>
     ▹ 依照[此頁](https://forum.gamer.com.tw/C.php?bsn=18673&snA=154214)安裝步驟 (或參考下方圖片步驟)<br>
     ▹ 太麻煩的話，建議直接使用第三方Launcher，也可登入正版帳密 (MC-Launcer、MultiMC、ATLauncher都不錯用)<br>
   <img src="./images/3-1.png"  height="200">
   <img src="./images/3-2.png"  height="200"><br>
-  (4) 開啟Launcher登入已購買的帳號 <br>
+  4. 開啟Launcher登入已購買的帳號 <br>
   <img src="./images/3-3.png"  width="400"> <br>
-  (5) 新增安裝檔 <br>
+  5. 新增安裝檔 <br>
   <img src="./images/3-4.png"  width="600"> <br>
-  (6) 選剛才安裝好的 Release 1.16.5-forge-36.2.0 <br>
+  6. 選剛才安裝好的 Release 1.16.5-forge-36.2.0 <br>
   <img src="./images/3-5.JPG"  width="400"> <br>
-  (7) 點選"更多選項"，設定擴大RAM為4G (避免日後記憶體不足)  <br>
+  7. 點選"更多選項"，設定擴大RAM為4G (避免日後記憶體不足)  <br>
   <img src="./images/7-2.png"  width="400"> <br>
-  (8) 等待安裝完成，開始遊戲即可!<br>
+  8. 等待安裝完成，開始遊戲即可!<br>
   <img src="./images/3-6.png"  width="400"> <br>
 
 * 或先安裝第三方Launcher<br>
   ▹ [MC-Launcher](https://mc-launcher.com/launchers) <br>
-  (1) 先建立帳戶<br>
+  1. 先建立帳戶<br>
   <img src="./images/2-1.png"  width="600"> <br>
-  (2) 選擇正版或其他帳戶，並輸入帳密或名稱<br>
+  2. 選擇正版或其他帳戶，並輸入帳密或名稱<br>
   <img src="./images/2-2.png"  width="600"> <br>
-  (3) 選定安裝版本(Forge 1.16.5)，按進入遊戲即可!<br>
+  3. 選定安裝版本(Forge 1.16.5)，按進入遊戲即可!<br>
   <img src="./images/2-3.png"  width="600"> <br>
 
   
-#### II 安裝MOD與初始設定
+## II 安裝MOD與初始設定
   1. **請下載自製"[檔案匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools)"** <br>
   點選按鈕進行設定檔置換<br>
   <img src="./images/4.png"  width="500">
@@ -54,7 +60,7 @@
   5. **重開Minecraft，將重新讀取Mod與設定**<br>
   
 
-#### III 連線到多人伺服器
+## III 連線到多人伺服器
   1. **新增多人伺服器**<br>
   點選多人遊戲→新增伺服器，伺服器名稱自定義(待會匯入地圖檔會用到)、<br>
   網址輸入"minecraft.timmchen.com"，點選完成後直接連線 <br>
@@ -73,7 +79,7 @@
         3. 如重裝minecraft：請設定跟當初第一次進入伺服器一樣的密碼才能連線，如忘記請通知OP重設密碼<br>
         <img src="./images/5-4.png"  width="400"> <br>
         
-#### IV 匯入地圖檔
+## IV 匯入地圖檔
 * Server使用JourneyMap Mod作為世界地圖，圖資生成存在自己電腦內 (自己要開黑色區域)，並可儲存WayPoints指出方位，可參考[Mod官網](https://journeymap.info/Multiplayer_Server_Map)
 * 請使用上方提到的"[匯入小工具]()"，將最新版的全地圖檔匯入剛才新增的"多人世界" (下拉式選單選擇名稱)，重新進入世界後即可全開地圖!
 * 地圖檔只會在自己周圍更新，因此推薦可造飛機多繞繞地圖~<br>

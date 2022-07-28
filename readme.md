@@ -2,11 +2,11 @@
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQvHInp69r4fQ1aUIF2Jm4krgCnhwB6Ufdxi76_wB9l0t6WiSDdPwJxcYIYg1KTWvgbxDqt6CGMrl4F/pub?w=500&amp;h=500">
 
-* <a src="https://docs.google.com/drawings/d/14CkqO0yurGKy7m1i6QX_AyAPa7ecaTq3OsKWUSnJWo4/edit?usp=sharing" target="_blank">協作地圖</a><br>
-* <a src="https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools" target="_blank">模組與設定匯入小工具</a> (更新Mod必備!) <br>
-* <a src="https://docs.google.com/presentation/d/1msM5YNsXpt14wGQ0t3xbDOrEIKE55fgAX7pzxHYfUho/edit?usp=sharing" target="_blank">快速上手</a>
-* <a src="https://docs.google.com/document/d/1Qc1ljT_9D0RBvlq08HDihXI4edl3lFVBeVYlCp3eM38/edit?usp=sharing" target="_blank">Mod圖說</a> <br>
-* <a src="https://docs.google.com/spreadsheets/d/1DfdwHGWw16sB9SxYdnkzX8Z524wlGDj4/edit?usp=sharing&ouid=115710445649749300574&rtpof=true&sd=true" target="_blank">Mod詳細列表</a> <br>
+* [協作地圖](https://docs.google.com/drawings/d/14CkqO0yurGKy7m1i6QX_AyAPa7ecaTq3OsKWUSnJWo4/edit?usp=sharing)<br>
+* [模組與設定匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools) (更新Mod必備!) <br>
+* [快速上手]("https://docs.google.com/presentation/d/1msM5YNsXpt14wGQ0t3xbDOrEIKE55fgAX7pzxHYfUho/edit?usp=sharing) <br>
+* [Mod圖說](https://docs.google.com/document/d/1Qc1ljT_9D0RBvlq08HDihXI4edl3lFVBeVYlCp3eM38/edit?usp=sharing) <br>
+* [Mod詳細列表](https://docs.google.com/spreadsheets/d/1DfdwHGWw16sB9SxYdnkzX8Z524wlGDj4/edit?usp=sharing&ouid=115710445649749300574&rtpof=true&sd=true) <br>
 * World Seed: -2084759484 <br>
 <br>
 
@@ -23,7 +23,7 @@
 
 * Discord<br>
 歡迎加入[Discord](https://discord.gg/XSmgz6SaTq)在遊戲中交談! 
-    <img src="./images/6.png"  width="600">
+    <img src="./images/6.png"  width="500">
 
 * Skin:
     * [Official](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin)
@@ -37,14 +37,14 @@
 ## 伺服器須知
 1. 更新Mod、地圖檔時請使用[小工具](./setup.md#ii-%E5%AE%89%E8%A3%9Dmod%E8%88%87%E5%88%9D%E5%A7%8B%E8%A8%AD%E5%AE%9A)進行更新 (如果進入伺服器遇到Mod List不符的錯誤訊息，代表伺服器Mod有更新) <br>
 <img src="./images/4.png"  width="400">
-2. 伺服器地圖檔每天都會做備份，檔案保留三天 (平日24:00、假日12:00 & 18:00 & 24:00)
-3. 考慮未來升版本，將不會更新已開發區域，再請盡量把家蓋在+-1000的座標以內，以便外圍區域套用到新版本內容
-4. 地圖因檔案大小將定期刪除沒用到的區域，請盡量避免將物品放置在離市中心太遠的地方 (座標+-2000)
+2. 伺服器地圖檔每天都會做備份，檔案保留三天 (平日24:00、假日12:00 & 18:00 & 24:00)<br>
+3. 考慮未來升版本，將不會更新已開發區域，再請盡量把家蓋在+-1000的座標以內，以便外圍區域套用到新版本內容<br>
+4. 地圖因檔案大小將定期刪除沒用到的區域，請盡量避免將物品放置在離市中心太遠的地方 (座標+-2000)<br>
 5. Skin Mod 建議使用正版帳號[上傳](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin)、或推薦第三方Skin站：[BlessingSkin](https://skin.prinzeugen.net/) 搭配MC-Laucher
      <br>(不建議使用TLaucher進行遊戲，他有自己的Skin，另外也支援以下第三方skin站：LittleSkin, Elyby, SkinMe, GlitchlessGames)<br>
      <img src="./images/9-1.png"  height="180">
      <img src="./images/9-2.png"  height="180">
-6. 伺服器會鎖定登入的user name (依據安裝第4步的輸入名稱來開通)，日後登入請用同一個user name進入
+6. 伺服器會鎖定登入的user name<br> (依據安裝第4步的輸入名稱來開通)，日後登入請用同一個user name進入
 7. 相同seed建立的新世界的地形都會一樣，可參考本伺服器的seed來搜尋史萊姆區塊
 <br>
 
