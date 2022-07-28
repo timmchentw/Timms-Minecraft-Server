@@ -74,6 +74,7 @@
 
 4. [SEAUS](https://www.sonicether.com/seus/) → 經典光影模組
 
+![](images/11.png)
 ![](images/10.png)
 Misa (ResourcePack) + BLS (Shaders)
 

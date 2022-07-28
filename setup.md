@@ -39,15 +39,15 @@
 ## II 安裝MOD與初始設定
   1. **請下載自製"[檔案匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools)"** <br>
   點選按鈕進行設定檔置換<br>
-  <img src="./images/4.png"  width="500">
+  <img src="./images/4.png"  width="500"><br>
   2. **點選"安裝Mods"**<br>
   會直接下載目前伺服器所需的所有MOD (下載期間請耐心等待)<br>
   ※ 注意私自安裝的MOD會一併作刪除，更新前請先備份好<br>
-  (路徑為 C:/Users/XXX/AppData/Roaming/.minecraft/mods)
+  (路徑為 C:/Users/XXX/AppData/Roaming/.minecraft/mods)<br>
 
   3. **點選"更新按鍵配置"**<br>
   會套用符合使用的按鍵設定、語言、資源包設定等<br>
-  (路徑為 C:/Users/XXX/AppData/Roaming/.minecraft/options.txt)
+  (路徑為 C:/Users/XXX/AppData/Roaming/.minecraft/options.txt)<br>
 
   4. **點選"更新套件設定"**<br>
   勾選右下角的目標套件在進行點選，即可套用最新的MOD設定<br>
@@ -55,7 +55,7 @@
   (路徑為C:/Users/XXX/AppData/Roaming/.minecraft/config)<br>
 <br>
   ※ 匯入地圖檔請在進入多人遊戲後，再做匯入，否則找不到多人世界的資料夾!<br>
-  ※ 日後伺服器MOD或地圖檔有更新時，再打開小工具快速更新即可! 
+  ※ 日後伺服器MOD或地圖檔有更新時，再打開小工具快速更新即可! <br>
   
   5. **重開Minecraft，將重新讀取Mod與設定**<br>
   
