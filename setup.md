@@ -81,7 +81,7 @@
         
 ## IV 匯入地圖檔
 * Server使用JourneyMap Mod作為世界地圖，圖資生成存在自己電腦內 (自己要開黑色區域)，並可儲存WayPoints指出方位，可參考[Mod官網](https://journeymap.info/Multiplayer_Server_Map)
-* 請使用上方提到的"[匯入小工具]()"，將最新版的全地圖檔匯入剛才新增的"多人世界" (下拉式選單選擇名稱)，重新進入世界後即可全開地圖!
+* 請使用上方提到的"[匯入小工具](#ii-%E5%AE%89%E8%A3%9Dmod%E8%88%87%E5%88%9D%E5%A7%8B%E8%A8%AD%E5%AE%9A)"，將最新版的全地圖檔匯入剛才新增的"多人世界" (下拉式選單選擇名稱)，重新進入世界後即可全開地圖!
 * 地圖檔只會在自己周圍更新，因此推薦可造飛機多繞繞地圖~<br>
     (地圖檔路徑在 C:\users\XXX\AppData\Roaming\.minecraft\journeymap\data\mp\SERVER_NAME)
     <img src="./images/8-1.png"  width="400"> <br>
