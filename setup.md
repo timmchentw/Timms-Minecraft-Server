@@ -68,7 +68,7 @@
   <img src="./images/5-2.png"  width="500"> <br>
   <img src="./images/5-3.png"  width="500"> <br>
   2. **送出申請表單**<br>
-  此時進入多人遊戲後會被擋住，請先到[主頁表單連結](./read.me#%E7%94%B3%E8%AB%8B%E8%88%87%E5%AE%89%E8%A3%9D%E6%96%B9%E6%B3%95)填寫入伺服器申請，<br>
+  此時進入多人遊戲後會被擋住，請先到[主頁表單連結](./Timms-Minecraft-Server#%E7%94%B3%E8%AB%8B%E8%88%87%E5%AE%89%E8%A3%9D%E6%96%B9%E6%B3%95)填寫入伺服器申請，<br>
   送出表單後，通知OP人工核准後始可登入<br>
   <br>
   Ps. 伺服器使用Simple login模組避免帳號被盜用，<br>
