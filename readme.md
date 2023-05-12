@@ -30,6 +30,8 @@
     * [BlessingSkin](https://skin.prinzeugen.net/)
 * 史萊姆區塊搜尋: 
     * [Chunkbase](https://www.chunkbase.com/apps/slime-finder)
+* 圓形規劃工具:
+    * [PixelCircleGenerator](https://donatstudios.com/PixelCircleGenerator)  
 <br>
 
 
