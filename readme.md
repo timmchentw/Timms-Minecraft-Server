@@ -51,6 +51,7 @@
 ## 推薦光影模組與材質包
 #### **[材質包]**
 * 下載到C:/users/XXX/AppData/Roaming/.minecraft/resourcepacks
+* 切換方法：ESC→選項→資源包→左方選想要的材質包點箭頭、右方選要取消的材質包點箭頭(可多重選擇、順序代表顯示優先度)→完成
 1. [Misa's Realistic (64x)](https://resourcepack.net/misas-realistic-resource-pack/) → 與原版風格較為搭配的擬真材質，順暢度較佳
 
 
@@ -64,6 +65,7 @@
 
 #### **[光影]**
 * 下載到C:/users/XXX/AppData/Roaming/.minecraft/shaderpacks
+* 切換方法：ESC→選項→顯示設定→光影...→點選想要的光影包→完成
 1. [BLS](https://www.curseforge.com/minecraft/customization/bsl-shaders) → 光暈效果極佳，目前最滿意
 
 
