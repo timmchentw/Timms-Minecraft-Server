@@ -7,7 +7,7 @@
 * [快速上手](https://docs.google.com/presentation/d/1msM5YNsXpt14wGQ0t3xbDOrEIKE55fgAX7pzxHYfUho/edit?usp=sharing) <br>
 * [Mod圖說](https://docs.google.com/document/d/1Qc1ljT_9D0RBvlq08HDihXI4edl3lFVBeVYlCp3eM38/edit?usp=sharing) <br>
 * [Mod詳細列表](https://docs.google.com/spreadsheets/d/1DfdwHGWw16sB9SxYdnkzX8Z524wlGDj4/edit?usp=sharing&ouid=115710445649749300574&rtpof=true&sd=true) <br>
-* World Seed: -2084759484 <br>
+* 地圖種子檔(World Seed): -2084759484 <br>
 <br>
 
 ## 申請與安裝方法
