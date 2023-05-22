@@ -11,19 +11,21 @@
 2. 下載與安裝[啟動器](https://www.minecraft.net/zh-hans/download) <br>
   2-1 開啟Launcher登入已購買的帳號 <br>
     <img src="./images/3-3.png"  width="400"> <br>
-  2-1 新增安裝檔→安裝1.19.2版本<br>
+  2-2 新增安裝檔→安裝1.19.2版本<br>
     <img src="./images/3-4.png"  width="600"> <br>
-  2-2 開啟遊戲完成讀取後，關閉遊戲<br>
-3. 下載與安裝[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html) (Mod Loader) <br>
+    <img src="./images/12.png"  width="600"> <br>
+  2-3 開啟遊戲完成讀取後，關閉遊戲<br>
+    <img src="./images/3-6.png"  width="400"> <br>
+3. 下載與安裝[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) (Mod Loader) <br>
     3-1 下載與安裝版本 [1.19.2 - 43.2.11](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.11/forge-1.19.2-43.2.11-installer.jar) <br>
       <img src="./images/3-1.png"  height="200">
       <img src="./images/3-2.png"  height="200"><br>
     3-2 選剛才安裝好的 Release 1.19.2-forge-43.2.11 <br>
-      <img src="./images/3-5.JPG"  width="400"> <br>
+      <img src="./images/13.png"  width="400"> <br>
     3-3 點選"更多選項"，設定擴大RAM為4G (避免日後記憶體不足)  <br>
-      <img src="./images/7-2.png"  width="400"> <br>
-4. 等待安裝完成，開始遊戲即可!<br>
-      <img src="./images/3-6.png"  width="400"> <br>
+      <img src="./images/14.png"  width="400"> <br>
+4. 選擇剛才新增的安裝檔，開始遊戲即可!<br>
+      <img src="./images/15.png"  width="400"> <br>
 
     ▹ 也可依照[網友建議方式](https://forum.gamer.com.tw/C.php?bsn=18673&snA=154214)安裝步驟 (或參考下方圖片步驟)<br>
     ▹ 太麻煩的話，建議直接使用第三方Launcher，也可登入正版帳密 (MC-Launcer、MultiMC、ATLauncher都不錯用)<br>
@@ -34,7 +36,7 @@
   <img src="./images/2-1.png"  width="600"> <br>
   2. 選擇正版或其他帳戶，並輸入帳密或名稱<br>
   <img src="./images/2-2.png"  width="600"> <br>
-  3. 選定安裝版本(Forge 1.16.5)，按進入遊戲即可!<br>
+  3. 選定安裝版本(Forge 1.19.2)，按進入遊戲即可!<br>
   <img src="./images/2-3.png"  width="600"> <br>
 
   
