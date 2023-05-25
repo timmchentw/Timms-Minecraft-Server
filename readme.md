@@ -54,32 +54,36 @@
 #### **[材質包]**
 * 下載到C:/users/XXX/AppData/Roaming/.minecraft/resourcepacks
 * 切換方法：ESC→選項→資源包→左方選想要的材質包點箭頭、右方選要取消的材質包點箭頭(可多重選擇、順序代表顯示優先度)→完成
-1. [Misa's Realistic (64x)](https://resourcepack.net/misas-realistic-resource-pack/) → 與原版風格較為搭配的擬真材質，順暢度較佳
+1. [Misa's Realistic (64x)](https://www.curseforge.com/minecraft/texture-packs/misas-realistic/files/4126876) → 與原版風格較為搭配的中世紀擬真材質，順暢度適中
 
 
-2. [LB Photo Realism Reload! (128x)](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload?__cf_chl_jschl_tk__=cT4oDCiCWcaSoG5w10BIlG0p0EW78OQ10VuWSPnfDAQ-1638681561-0-gaNycGzNDL0) → 極致擬真材質，火焰特效極佳 (可與Misa搭配，可套用到混合特效)
+2. [LB Photo Realism Reload! (128x)](https://texture-packs.com/resourcepack/lb-photo-realism-reload/) → 極致擬真材質，火焰特效極佳 (可與Misa搭配，可套用到混合特效)
 
 
-3. [Compliance (64x)](https://www.curseforge.com/minecraft/texture-packs/compliance-64x) → 原版風格的高畫質版本
+3. [Compliance (64x)](https://texture-packs.com/resourcepack/compliance-64x/) → 原版風格的高畫質版本
 
 
 4. [Steven's Traditional (64x)](https://www.curseforge.com/minecraft/texture-packs/stevens-traditional) → 原版風格還原度極高的版本，較為平滑
 
+5. [Optimum Realism POM & PBR (128x)](https://www.curseforge.com/minecraft/texture-packs/optimum-realism/files/3965497) → 植物與燈光較為擬真，建議搭配光影
+
 #### **[光影]**
 * 下載到C:/users/XXX/AppData/Roaming/.minecraft/shaderpacks
 * 切換方法：ESC→選項→顯示設定→光影...→點選想要的光影包→完成
-1. [BLS](https://www.curseforge.com/minecraft/customization/bsl-shaders) → 光暈效果極佳，目前最滿意
+1. [BSL](https://www.curseforge.com/minecraft/customization/bsl-shaders) → 光暈與霧化效果佳，極推!
+
+2. [SEAUS](https://www.patreon.com/posts/45141775) → 經典光影模組，風格較為現代，可有效提升原版材質的質感
+
+3. [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders/files/3856409) → 效能與特效居中，適合喜歡中度光影者
+
+4. [Sildur's Vibrant shaders](https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders/files/4019719) → 光暈效果極強，效能也不錯
+
+5. [Tea Shaders](https://www.curseforge.com/minecraft/customization/beyondbelief-vanilla-reborn) → 無光影效果，僅有樹木、水面動態的特效 (效能佳)
 
 
-2. [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders) → 介於上者與下者
-
-
-3. [Tea Shaders](https://www.curseforge.com/minecraft/customization/beyondbelief-vanilla-reborn) → 效果較少，效能較佳
-
-4. [SEAUS](https://www.sonicether.com/seus/) → 經典光影模組
 
 ![](images/11.png)
 ![](images/10.png)
-Misa (ResourcePack) + BLS (Shaders)
+Misa (ResourcePack) + BSL (Shaders)
 
 <a src="" target="_blank"></a> <br>
