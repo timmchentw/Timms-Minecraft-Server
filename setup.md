@@ -31,7 +31,7 @@
     ▹ 太麻煩的話，建議直接使用第三方Launcher，也可登入正版帳密 (MC-Launcer、MultiMC、ATLauncher都不錯用)<br>
 
 * 或先安裝第三方Launcher<br>
-  ▹ [MC-Launcher](https://mc-launcher.com/launchers) <br>
+  ▹ [MC-Launcher](https://mc-launcher.com/) <br>
   1. 先建立帳戶<br>
   <img src="./images/2-1.png"  width="600"> <br>
   2. 選擇正版或其他帳戶，並輸入帳密或名稱<br>
