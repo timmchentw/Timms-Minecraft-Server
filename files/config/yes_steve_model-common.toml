@@ -1,0 +1,56 @@
+[general]
+	#Whether to display disclaimer GUI
+	DisclaimerShow = true
+	#Whether to print animation roulette play message
+	PrintAnimationRouletteMsg = false
+	#Prevents rendering of self player's model
+	DisableSelfModel = false
+	#Prevents rendering of other player's model
+	DisableOtherModel = false
+	#Prevents rendering of self player's hand
+	DisableSelfHands = false
+	#Prevents rendering of arrows model
+	DisableArrowsModel = false
+	#The default model ID when a player first enters the game
+	DefaultModelId = "default"
+	#The default model texture when a player first enters the game
+	DefaultModelTexture = "default"
+	#If rendering errors occur, try turning on this.
+	UseCompatibilityRenderer = false
+
+[extra_player_render]
+	#Whether to display player
+	DisablePlayerRender = false
+	#Player position x in screen
+	# Default: 10
+	# Range: > 0
+	PlayerPosX = 90
+	#Player position y in screen
+	# Default: 10
+	# Range: > 0
+	PlayerPosY = 90
+	#Player scale in screen
+	# Default: 40.0
+	# Range: 8.0 ~ 360.0
+	PlayerScale = 15.0
+	#Player yaw offset in screen
+	# Default: 5.0
+	# Range: 4.9E-324 ~ 1.7976931348623157E308
+	PlayerYawOffset = 5.0
+
+#Only available on dedicated servers.
+[server_scheduler]
+	#Concurrent level for processing models. Value 0 means AUTO.
+	# Default: 0
+	# Range: 0 ~ 19
+	ThreadCount = 0
+	#Bandwidth limitation during distributing models to players.(In Mbps)
+	# Default: 5
+	# Range: 1 ~ 999
+	BandwidthLimit = 5
+	#Timeout for players to respond to synchronization. Value not greater than 10 means AUTO.(In seconds)
+	# Default: 0
+	# Range: 0 ~ 120
+	PlayerSyncTimeout = 0
+	#Whether or not players are allowed to switch models
+	CanSwitchModel = true
