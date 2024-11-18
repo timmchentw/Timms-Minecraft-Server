@@ -24,11 +24,11 @@
 	#Player position x in screen
 	# Default: 10
 	# Range: > 0
-	PlayerPosX = 90
+	PlayerPosX = 450
 	#Player position y in screen
 	# Default: 10
 	# Range: > 0
-	PlayerPosY = 90
+	PlayerPosY = 210
 	#Player scale in screen
 	# Default: 40.0
 	# Range: 8.0 ~ 360.0
