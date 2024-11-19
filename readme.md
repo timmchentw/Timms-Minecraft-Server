@@ -28,10 +28,12 @@
 * Skin:
     * [Official](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin)
     * [BlessingSkin](https://skin.prinzeugen.net/)
-* 史萊姆區塊搜尋 (地圖種子檔World Seed: -2084759484): 
+* 史萊姆區塊搜尋 (地圖種子檔World Seed: -7546871049307550237): 
     * [Chunkbase](https://www.chunkbase.com/apps/slime-finder)
 * 圓形規劃工具:
     * [PixelCircleGenerator](https://donatstudios.com/PixelCircleGenerator)  
+* 櫻花地圖種子參考:
+    * [15 Best Minecraft Seeds For Cherry Blossom](https://screenrant.com/best-minecraft-seeds-cherry-blossom/)
 <br>
 
 
@@ -42,10 +44,11 @@
 2. 伺服器地圖檔每天都會做備份，檔案保留三天 (平日24:00、假日12:00 & 18:00 & 24:00)<br>
 3. 考慮未來升版本，將不會更新已開發區域，再請盡量把家蓋在+-1000的座標以內，以便外圍區域套用到新版本內容<br>
 4. 地圖因檔案大小將定期刪除沒用到的區域，請盡量避免將物品放置在離市中心太遠的地方 (座標+-2000)<br>
-5. Skin Mod 建議使用正版帳號[上傳](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin)、或推薦第三方Skin站：[BlessingSkin](https://skin.prinzeugen.net/) 搭配MC-Laucher<br>
+5. 本伺服器已提供多個3D人物模組MOD可選，不過也也Skin Mod可自行新增平面人物Skin，建議使用正版帳號[上傳](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin)、或推薦第三方Skin站：[BlessingSkin](https://skin.prinzeugen.net/) 搭配MC-Laucher<br>
 (不建議使用TLaucher進行遊戲，他有自己的Skin，另外也支援以下第三方skin站：LittleSkin, Elyby, SkinMe, GlitchlessGames)<br>
-     <img src="./images/9-1.png"  height="180">
-     <img src="./images/9-2.png"  height="180">
+     <img src="./images/9.png"  width="600"></br>
+     <img src="./images/9-1.png"  height="300">
+     <img src="./images/9-2.png"  height="300">
 6. 伺服器會鎖定登入的user name<br> (依據安裝第4步的輸入名稱來開通)，日後登入請用同一個user name進入
 7. 相同seed建立的新世界的地形都會一樣，可參考本伺服器的seed來搜尋史萊姆區塊
 <br>
