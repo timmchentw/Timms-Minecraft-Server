@@ -8,12 +8,7 @@
 
 ## I 下載Server安裝小工具**
   
-  1. 下載[檔案匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools)的所有壓縮檔
-
-      <img src="./images/t0.png"  width="800"></br>
-      <img src="./images/t1.png"  width="800"></br>
-
-
+  1. 下載[檔案匯入小工具](https://drive.google.com/file/d/13wBE3E1xyvtOcqAntxPvxp8QNv1LhS4z/view?usp=sharing)的壓縮檔
   2. 解壓縮後點選"TimmsMinecraftTool.exe"
 
       <img src="./images/t2.png"  width="800"></br>
