@@ -10,7 +10,13 @@
   
   1. 下載[檔案匯入小工具](https://github.com/timmchentw/Timms-Minecraft-Server/tree/main/files/Timm's%20Minecraft%20Tools)的所有壓縮檔
 
+      <img src="./images/t0.png"  width="800"></br>
+      <img src="./images/t1.png"  width="800"></br>
+
+
   2. 解壓縮後點選"TimmsMinecraftTool.exe"
+
+      <img src="./images/t2.png"  width="800"></br>
 
   3. 依照下圖順序進行安裝 (請先依照下方指示完成第1、2點)
 
