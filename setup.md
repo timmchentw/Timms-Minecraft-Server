@@ -8,7 +8,7 @@
 
 ## I 下載Server安裝小工具**
   
-  1. 下載[檔案匯入小工具](https://drive.google.com/file/d/13wBE3E1xyvtOcqAntxPvxp8QNv1LhS4z/view?usp=sharing)的壓縮檔
+  1. 下載[檔案匯入小工具](https://drive.google.com/file/d/1zUCE_tuY-3dLtUbas8YL-3d6fJs3T8uj/view?usp=sharing)的壓縮檔
   2. 解壓縮後點選"TimmsMinecraftTool.exe"
 
       <img src="./images/t2.png"  width="800"></br>
@@ -100,6 +100,7 @@
     ※ Inventory Profile Next為裝飾裝備模組，將關閉會干擾物品欄顯示的箭頭圖案</br>
     ※ Distant Horizons為遠方景觀模組，將會關閉雲的顯示(推薦關閉是因為會跟光影模組重複)</br>
     ※ Yes Steve Model為立體人物模組，將把第三人稱小人物預覽移到介面右下角</br>
+    ※ Iris為光影模組支援，將儲存光影包相關設定</br>
 
 7. **點選"下載人物模型"**
 
@@ -118,7 +119,7 @@
 
   1. **新增多人伺服器**</br>
 
-      點選多人遊戲 → 如果剛才小工具有勾選更新"伺服器列表"，將顯示此伺服器 (網址為minecraft.timmchen.com)</br>
+      點選多人遊戲 → 如果剛才小工具有勾選更新"伺服器列表"，將已顯示此伺服器 (網址為minecraft.timmchen.com)</br>
 
   2. **送出申請表單**</br>
 
