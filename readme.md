@@ -55,7 +55,7 @@
 
 
 ## 伺服器須知
-1. 更新Mod、地圖檔時請使用[小工具](./setup.md#ii-%E5%AE%89%E8%A3%9Dmod%E8%88%87%E5%88%9D%E5%A7%8B%E8%A8%AD%E5%AE%9A)進行更新 (如果進入伺服器遇到Mod List不符的錯誤訊息，代表伺服器Mod有更新) </br>
+1. 更新Mod、地圖檔時請使用[小工具](https://drive.google.com/file/d/19UScsMEOl_Es_5LV3fP7kklRVVjTgWnL/view?usp=sharing)進行更新 (如果進入伺服器遇到Mod List不符的錯誤訊息，代表伺服器Mod有更新) </br>
     <img src="./images/4.png"  width="400"></br>
 2. 伺服器地圖檔每天都會做備份，檔案保留三天 (平日24:00、假日12:00 & 18:00 & 24:00)</br>
 3. 考慮未來升版本，將不會更新已開發區域，再請盡量把家蓋在+-1000的座標以內，以便外圍區域套用到新版本內容</br>
@@ -65,8 +65,8 @@
      <img src="./images/9.png"  width="600"></br>
      <img src="./images/9-1.png"  height="300">
      <img src="./images/9-2.png"  height="300">
-6. 伺服器會鎖定登入的user name</br> (依據安裝第4步的輸入名稱來開通)，日後登入請用同一個user name進入
-7. 相同seed建立的新世界的地形都會一樣，可參考本伺服器的seed來搜尋史萊姆區塊
+1. 伺服器會鎖定登入的user name</br> (依據安裝第4步的輸入名稱來開通)，日後登入請用同一個user name進入
+2. 相同seed建立的新世界的地形都會一樣，可參考本伺服器的seed來搜尋史萊姆區塊
 </br>
 
 ## 推薦光影模組與材質包

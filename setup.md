@@ -8,7 +8,7 @@
 
 ## I 下載Server安裝小工具**
   
-  1. 下載[檔案匯入小工具](https://drive.google.com/file/d/1zUCE_tuY-3dLtUbas8YL-3d6fJs3T8uj/view?usp=sharing)的壓縮檔
+  1. 下載[檔案匯入小工具](https://drive.google.com/file/d/19UScsMEOl_Es_5LV3fP7kklRVVjTgWnL/view?usp=sharing)的壓縮檔
   2. 解壓縮後點選"TimmsMinecraftTool.exe"
 
       <img src="./images/t2.png"  width="800"></br>
